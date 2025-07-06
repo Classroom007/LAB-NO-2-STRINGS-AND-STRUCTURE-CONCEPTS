@@ -44,7 +44,7 @@ $ gcc -I. src/*.c tests/main.c -o run_tests
 
 # Run with a sample test:
 $ ./run_tests < cases/input1.txt > my_output.txt
-```
+
 
 ## Autograding Setup
 1. Enable **Autograding** in GitHub Classroom.
